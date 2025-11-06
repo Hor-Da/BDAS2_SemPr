@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Z1NEO\\source\\repos\\BDAS2_SemPr\\DatabazovyServis\\DatabazovyServis\\DatabazovyServis.csproj": {}
+    "C:\\Users\\Z1NEO\\Documents\\GitHub\\BDAS2_SemPr\\DatabazovyServis\\DatabazovyServis\\DatabazovyServis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Z1NEO\\source\\repos\\BDAS2_SemPr\\DatabazovyServis\\DatabazovyServis\\DatabazovyServis.csproj": {
+    "C:\\Users\\Z1NEO\\Documents\\GitHub\\BDAS2_SemPr\\DatabazovyServis\\DatabazovyServis\\DatabazovyServis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Z1NEO\\source\\repos\\BDAS2_SemPr\\DatabazovyServis\\DatabazovyServis\\DatabazovyServis.csproj",
+        "projectUniqueName": "C:\\Users\\Z1NEO\\Documents\\GitHub\\BDAS2_SemPr\\DatabazovyServis\\DatabazovyServis\\DatabazovyServis.csproj",
         "projectName": "DatabazovyServis",
-        "projectPath": "C:\\Users\\Z1NEO\\source\\repos\\BDAS2_SemPr\\DatabazovyServis\\DatabazovyServis\\DatabazovyServis.csproj",
+        "projectPath": "C:\\Users\\Z1NEO\\Documents\\GitHub\\BDAS2_SemPr\\DatabazovyServis\\DatabazovyServis\\DatabazovyServis.csproj",
         "packagesPath": "C:\\Users\\Z1NEO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Z1NEO\\source\\repos\\BDAS2_SemPr\\DatabazovyServis\\DatabazovyServis\\obj\\",
+        "outputPath": "C:\\Users\\Z1NEO\\Documents\\GitHub\\BDAS2_SemPr\\DatabazovyServis\\DatabazovyServis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -49,12 +49,6 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
-          "dependencies": {
-            "Oracle.ManagedDataAccess.Core": {
-              "target": "Package",
-              "version": "[23.26.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
