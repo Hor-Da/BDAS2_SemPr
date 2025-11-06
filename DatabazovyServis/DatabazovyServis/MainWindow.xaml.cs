@@ -16,9 +16,27 @@ namespace DatabazovyServis
     /// </summary>
     public partial class MainWindow : Window
     {
-        public MainWindow()
+        DatabaseManager dbManager = new DatabaseManager();
+		public MainWindow()
         {
             InitializeComponent();
-        }
-    }
+            DatabaseConnectWindow DatabaseConnect = new DatabaseConnectWindow(dbManager);
+			this.Loaded += (sender, e) =>
+			{
+				CenterWindow(DatabaseConnect);
+				DatabaseConnect.ShowDialog();
+				DatabaseConnect.Activate();
+			};
+		}
+
+		private void CenterWindow(Window targetWindow)
+		{
+			double mainWindowCenterX = this.Left + this.Width / 2;
+			double mainWindowCenterY = this.Top + this.Height / 2;
+			double newLeft = mainWindowCenterX - targetWindow.Width / 2;
+			double newTop = mainWindowCenterY - targetWindow.Height / 2;
+			targetWindow.Left = newLeft;
+			targetWindow.Top = newTop;
+		}
+	}
 }

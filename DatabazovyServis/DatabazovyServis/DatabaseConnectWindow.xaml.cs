@@ -19,9 +19,32 @@ namespace DatabazovyServis
 	/// </summary>
 	public partial class DatabaseConnectWindow : Window
 	{
-		public DatabaseConnectWindow()
+		private DatabaseManager dbManager;
+
+		public DatabaseConnectWindow(DatabaseManager databaseManager)
 		{
 			InitializeComponent();
+			this.dbManager = databaseManager;
+		}
+
+		private void Button_Database_Connect(object sender, RoutedEventArgs e)
+		{
+			if(!string.IsNullOrWhiteSpace(this.Username.Text) && !string.IsNullOrWhiteSpace(this.Password.Text))
+			{
+				dbManager.SetCredentials(this.Username.Text, this.Password.Text);
+				this.DialogResult = true;
+				this.Close();
+			}
+		}
+
+		private void Button_Storno(object sender, RoutedEventArgs e)
+		{
+			Environment.Exit(1);
+		}
+
+		private void IsClosed(object sender, EventArgs e)
+		{
+			Environment.Exit(1);
 		}
 	}
 }

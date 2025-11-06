@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Z1NEO\\source\\repos\\BDAS2_SemPr\\DatabazovyServis\\",
+  "WorkspaceRootPath": "C:\\Users\\Z1NEO\\Documents\\GitHub\\BDAS2_SemPr\\DatabazovyServis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16650CF3-CF4B-4646-B049-724DB28492FC}|DatabazovyServis\\DatabazovyServis.csproj|c:\\users\\z1neo\\source\\repos\\bdas2_sempr\\databazovyservis\\databazovyservis\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16650CF3-CF4B-4646-B049-724DB28492FC}|DatabazovyServis\\DatabazovyServis.csproj|c:\\users\\z1neo\\documents\\github\\bdas2_sempr\\databazovyservis\\databazovyservis\\databaseconnectwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{16650CF3-CF4B-4646-B049-724DB28492FC}|DatabazovyServis\\DatabazovyServis.csproj|solutionrelative:databazovyservis\\databaseconnectwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16650CF3-CF4B-4646-B049-724DB28492FC}|DatabazovyServis\\DatabazovyServis.csproj|c:\\users\\z1neo\\documents\\github\\bdas2_sempr\\databazovyservis\\databazovyservis\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{16650CF3-CF4B-4646-B049-724DB28492FC}|DatabazovyServis\\DatabazovyServis.csproj|solutionrelative:databazovyservis\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16650CF3-CF4B-4646-B049-724DB28492FC}|DatabazovyServis\\DatabazovyServis.csproj|c:\\users\\z1neo\\documents\\github\\bdas2_sempr\\databazovyservis\\databazovyservis\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16650CF3-CF4B-4646-B049-724DB28492FC}|DatabazovyServis\\DatabazovyServis.csproj|solutionrelative:databazovyservis\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16650CF3-CF4B-4646-B049-724DB28492FC}|DatabazovyServis\\DatabazovyServis.csproj|c:\\users\\z1neo\\documents\\github\\bdas2_sempr\\databazovyservis\\databazovyservis\\databaseconnectwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16650CF3-CF4B-4646-B049-724DB28492FC}|DatabazovyServis\\DatabazovyServis.csproj|solutionrelative:databazovyservis\\databaseconnectwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16650CF3-CF4B-4646-B049-724DB28492FC}|DatabazovyServis\\DatabazovyServis.csproj|c:\\users\\z1neo\\documents\\github\\bdas2_sempr\\databazovyservis\\databazovyservis\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16650CF3-CF4B-4646-B049-724DB28492FC}|DatabazovyServis\\DatabazovyServis.csproj|solutionrelative:databazovyservis\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Z1NEO\\source\\repos\\BDAS2_SemPr\\DatabazovyServis\\DatabazovyServis\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "DatabazovyServis\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Z1NEO\\source\\repos\\BDAS2_SemPr\\DatabazovyServis\\DatabazovyServis\\MainWindow.xaml.cs",
-              "RelativeToolTip": "DatabazovyServis\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T14:19:23.492Z",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Z1NEO\\Documents\\GitHub\\BDAS2_SemPr\\DatabazovyServis\\DatabazovyServis\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DatabazovyServis\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Z1NEO\\Documents\\GitHub\\BDAS2_SemPr\\DatabazovyServis\\DatabazovyServis\\MainWindow.xaml",
+              "RelativeToolTip": "DatabazovyServis\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-06T16:38:38.644Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Z1NEO\\Documents\\GitHub\\BDAS2_SemPr\\DatabazovyServis\\DatabazovyServis\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DatabazovyServis\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Z1NEO\\Documents\\GitHub\\BDAS2_SemPr\\DatabazovyServis\\DatabazovyServis\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DatabazovyServis\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:19:23.492Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseConnectWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Z1NEO\\Documents\\GitHub\\BDAS2_SemPr\\DatabazovyServis\\DatabazovyServis\\DatabaseConnectWindow.xaml",
+              "RelativeDocumentMoniker": "DatabazovyServis\\DatabaseConnectWindow.xaml",
+              "ToolTip": "C:\\Users\\Z1NEO\\Documents\\GitHub\\BDAS2_SemPr\\DatabazovyServis\\DatabazovyServis\\DatabaseConnectWindow.xaml",
+              "RelativeToolTip": "DatabazovyServis\\DatabaseConnectWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-06T15:28:31.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseConnectWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Z1NEO\\Documents\\GitHub\\BDAS2_SemPr\\DatabazovyServis\\DatabazovyServis\\DatabaseConnectWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DatabazovyServis\\DatabaseConnectWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Z1NEO\\Documents\\GitHub\\BDAS2_SemPr\\DatabazovyServis\\DatabazovyServis\\DatabaseConnectWindow.xaml.cs",
+              "RelativeToolTip": "DatabazovyServis\\DatabaseConnectWindow.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswCIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:15:55.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\Z1NEO\\Documents\\GitHub\\BDAS2_SemPr\\DatabazovyServis\\DatabazovyServis\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "DatabazovyServis\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\Z1NEO\\Documents\\GitHub\\BDAS2_SemPr\\DatabazovyServis\\DatabazovyServis\\DatabaseManager.cs",
+              "RelativeToolTip": "DatabazovyServis\\DatabaseManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:14:40.233Z",
+              "EditorCaption": ""
             }
           ]
         }
